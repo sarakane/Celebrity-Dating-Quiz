@@ -1,12 +1,11 @@
-# _{Application Name}_
+# Celebrity Dating Quiz
 
-#### _{ ___ Exercise for Epicodus}, 2020.mm.dd_
+#### JavaScript Exercise for Epicodus, 2020.06.04
 
-#### By _**Sara Kane**_
+#### By _**Sara Kane & JohnNils Olson**_
 
 ## Description
-
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+Celebrity dating webpage, where you enter information about yourself, and the page suggests which celebrity, fictional character, or public figure you would be most compatible with.
 
 ## Setup/Installation Requirements
 * Clone this repository from GitHub
@@ -15,10 +14,14 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Known Bugs
 _No known bugs_
-## Support and contact details
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+
 ## Technologies Used
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* JavaScript
+* jQuery
+* HTML
+* CSS
+* Bootstrap
+
 ### License
 This software is licenced under the MIT license.  
-Copyright (c) 2020 **_{Sara Kane, }_**
+Copyright (c) 2020 **_Sara Kane & JohnNils Olson_**
